@@ -1,3 +1,7 @@
+## About The Project
+
+![Product Name Screen Shot][product-screenshot]
+
 ## Explanation
 Date Format Enforcement:
 
@@ -16,3 +20,7 @@ The keypress event prevents any non-numeric characters from being entered.
 ## Maximum Length:
 
 The maxlength="10" attribute ensures the input doesn't exceed 10 characters (for YYYY/MM/DD).
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: inputmask.png
